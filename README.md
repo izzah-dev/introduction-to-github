@@ -24,5 +24,6 @@ this text is not a quote
   3. pak studies
      
   <br/>
-  01 - [x] #739
-02 - [ ] https://github.com/octo-org/octo-repo/issues/740
+   - [x] task is completer
+    <br/>
+   - [ ] this is not completed task
